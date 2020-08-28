@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Animation-3D-React-Three-Fiber/static/css/main.9599bf77.chunk.css",
+    "main.js": "/Animation-3D-React-Three-Fiber/static/js/main.a0fa81b7.chunk.js",
+    "main.js.map": "/Animation-3D-React-Three-Fiber/static/js/main.a0fa81b7.chunk.js.map",
+    "runtime-main.js": "/Animation-3D-React-Three-Fiber/static/js/runtime-main.a71d7c6b.js",
+    "runtime-main.js.map": "/Animation-3D-React-Three-Fiber/static/js/runtime-main.a71d7c6b.js.map",
+    "static/js/2.6ce89d38.chunk.js": "/Animation-3D-React-Three-Fiber/static/js/2.6ce89d38.chunk.js",
+    "static/js/2.6ce89d38.chunk.js.map": "/Animation-3D-React-Three-Fiber/static/js/2.6ce89d38.chunk.js.map",
+    "index.html": "/Animation-3D-React-Three-Fiber/index.html",
+    "precache-manifest.43347ef47005e9d567ae227d5ae4097d.js": "/Animation-3D-React-Three-Fiber/precache-manifest.43347ef47005e9d567ae227d5ae4097d.js",
+    "service-worker.js": "/Animation-3D-React-Three-Fiber/service-worker.js",
+    "static/css/main.9599bf77.chunk.css.map": "/Animation-3D-React-Three-Fiber/static/css/main.9599bf77.chunk.css.map",
+    "static/js/2.6ce89d38.chunk.js.LICENSE.txt": "/Animation-3D-React-Three-Fiber/static/js/2.6ce89d38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a71d7c6b.js",
+    "static/js/2.6ce89d38.chunk.js",
+    "static/css/main.9599bf77.chunk.css",
+    "static/js/main.a0fa81b7.chunk.js"
+  ]
+}
